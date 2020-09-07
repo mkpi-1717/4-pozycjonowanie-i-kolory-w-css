@@ -1,0 +1,97 @@
+* {
+    background-color: gray;
+    position: relative;
+    display: inline-block;
+}
+#main {
+    width: 300px;
+    height: 300px;
+}
+
+.box {
+    width: 32%;
+    height: 32%;
+}
+
+.circle {
+    border: 1px solid ;
+    border-radius: 50% 50%;
+    width: 50%;
+    height: 50%;
+    left: 25%;  
+    top: 25%;
+}
+
+.box1 {
+    background-color: red;
+}
+
+.box2 {
+    background-color: blue;
+}
+
+.box3 {
+    background-color: green;
+}
+
+.box4 {
+    background-color: yellow;
+}
+
+.box5 {
+    background-color: black;
+}
+
+.box6 {
+    background-color: orange;
+}
+
+.box7 {
+    background-color: violet;
+}
+
+.box8 {
+    background-color: lightgray;
+}
+
+.box9 {
+    background-color: pink;
+}
+
+
+
+.circle1 {
+    background-color: pink;
+}
+
+.circle2 {
+    background-color: lightslategray;
+}
+
+.circle3 {
+    background-color: violet;
+}
+
+.circle4 {
+    background-color: green;
+}
+
+.circle5 {
+    background-color: red;
+}
+
+.circle6 {
+    background-color: blue;
+}
+
+.circle7 {
+    background-color: orange;
+}
+
+.circle8 {
+    background-color: yellow;
+}
+
+.circle9 {
+    background-color: black;
+}
